@@ -1,3 +1,17 @@
 * {
     font-family: 'Roboto', sans-serif;
 }
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(135deg, rgba(2,0,36,1) 0%, rgba(133,35,124,1) 50%, rgba(0,212,255,1) 150%);
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    /* height: 100%; */
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 1rem;
+    max-width: 65%;
+    margin: auto;
+    text-align:center;
+  }
